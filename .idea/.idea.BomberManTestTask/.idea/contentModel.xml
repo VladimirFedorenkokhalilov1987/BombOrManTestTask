@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_BomberManTestTask.1581444882.00" t="ExcludeRecursive" />
+    <e p="D:\Vova\2019\Tests\Bomberman\BomberManTestTask" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Eazy Sound Manager" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Audio.cs" t="Include" />
+            <e p="EazySoundManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Fonts" t="Include">
+          <e p="OFL.txt" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BoardManager.cs" t="Include" />
+          <e p="Bomb" t="Include">
+            <e p="BangEffect.cs" t="Include" />
+            <e p="Bomb.cs" t="Include" />
+            <e p="BombChangedArgs.cs" t="Include" />
+          </e>
+          <e p="Bonuses" t="Include">
+            <e p="AbstractBonus.cs" t="Include" />
+            <e p="AdditionalBomb.cs" t="Include" />
+            <e p="Power.cs" t="Include" />
+            <e p="Speed.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Enemy.cs" t="Include" />
+            <e p="Follower.cs" t="Include" />
+            <e p="Stroller.cs" t="Include" />
+          </e>
+          <e p="GameManager.cs" t="Include" />
+          <e p="IDestroyable.cs" t="Include" />
+          <e p="InfoPanel.cs" t="Include" />
+          <e p="MovingObject.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="SoundManager.cs" t="Include" />
+          <e p="StartGame.cs" t="Include" />
+          <e p="UI" t="Include">
+            <e p="BlinkText.cs" t="Include" />
+            <e p="LevelImage.cs" t="Include" />
+          </e>
+          <e p="Wall.cs" t="Include" />
+        </e>
+      </e>
+      <e p="BomberManTestTask.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
